@@ -85,3 +85,6 @@ After running the script, you will see a 2x2 grid with plots corresponding to th
 
 Feel free to fork this project, make improvements, or create pull requests. If you find any bugs or have suggestions for new features, please open an issue on GitHub.
 
+
+# NOTE
+This project is not completed, needs further improvement
